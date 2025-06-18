@@ -29,7 +29,7 @@ export const Journey = () => {
         </span>
       </h1>
 
-      <div className="w-24 h-1 bg-gradient-to-r from-purple-500 to-red-500 rounded-full mb-8"></div>
+      <div className="w-96 h-1 bg-gradient-to-r from-purple-500 to-red-500 rounded-full mb-8"></div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
         {experiences.map((experience) => (

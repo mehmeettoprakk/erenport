@@ -49,7 +49,7 @@ export const Info = () => {
         </span>
       </h1>
 
-      <div className="w-24 h-1 bg-gradient-to-r from-purple-500 to-red-500 rounded-full mb-8"></div>
+      <div className="w-96 h-1 bg-gradient-to-r from-purple-500 to-red-500 rounded-full mb-8"></div>
 
       <div className="space-y-6 text-lg leading-relaxed">
         <p className="text-gray-300 hover:text-white transition-colors duration-300">
@@ -81,7 +81,7 @@ export const Info = () => {
         </p>
       </div>
 
-      <div className="w-20 h-1 bg-gradient-to-r from-purple-500 to-red-500 rounded-full my-8"></div>
+      <div className="w-96 h-1 bg-gradient-to-r from-purple-500 to-red-500 rounded-full my-8"></div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 max-w-2xl">
         {contacts.map((contact) => (

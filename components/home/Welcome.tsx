@@ -11,7 +11,7 @@ export const Welcome = () => {
         </span>
       </h1>
 
-      <div className="w-16 sm:w-20 lg:w-24 h-1 bg-gradient-to-r from-purple-500 to-red-500 rounded-full mb-4 sm:mb-6"></div>
+      <div className="w-36 sm:w-20 lg:w-64 h-1 bg-gradient-to-r from-purple-500 to-red-500 rounded-full mb-4 sm:mb-6"></div>
 
       <h2 className="font-light text-primary text-base sm:text-lg mb-6 lg:text-2xl lg:mb-8 leading-relaxed">
         Ich bin {" "}

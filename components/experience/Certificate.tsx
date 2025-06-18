@@ -58,7 +58,7 @@ export const Certificate = () => {
           Meine Zeugnisse
         </h2>
 
-        <div className="w-24 h-1 bg-gradient-to-r from-purple-500 to-red-500 rounded-full mx-auto mb-6"></div>
+        <div className="w-72 h-1 bg-gradient-to-r from-purple-500 to-red-500 rounded-full mx-auto mb-6"></div>
 
         <p className="text-primary text-lg lg:text-xl max-w-2xl mx-auto">
           Zeugnisse, die ich während meiner Schulzeit erhalten habe.
